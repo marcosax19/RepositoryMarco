@@ -1,0 +1,8 @@
+jupyter
+pandas
+sklearn
+time
+seaborn
+math
+matplotlib
+statistics
